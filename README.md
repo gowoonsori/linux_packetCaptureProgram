@@ -6,7 +6,7 @@
 
 <br>
 
-raw socket을 이용한 `tcpdump`를 모방하는 캡쳐 프로그램 작성
+raw socket을 이용한 `tcpdump`의 interface를 모방하는 캡쳐 프로그램 작성
 
 <br>
 
